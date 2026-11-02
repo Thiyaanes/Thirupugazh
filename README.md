@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center"> Thirupugazh (திருப்புகழ்)</h1>
   <p align="center">
-    A cross-platform mobile app to explore, search, and read the sacred 330+ Thirupugazh hymns of Saint Arunagirinathar — in Tamil, English transliteration, and synced-lyrics mode.
+    A cross-platform mobile app to explore, search, and read the sacred 1330+ Thirupugazh hymns of Saint Arunagirinathar — in Tamil, English transliteration, and synced-lyrics mode.
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/React_Native-0.86-61DAFB?logo=react&logoColor=white" alt="React Native" />
